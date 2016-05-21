@@ -1,4 +1,4 @@
-fileID = fopen('/Users/EscobarWest/data.txt')
+fileID = fopen('data.txt')
 A = fscanf(fileID, '%f');
 
 N = A(1);
